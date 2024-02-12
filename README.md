@@ -36,17 +36,20 @@ Split and Merge RGB Image
 Split and merge HSV Image
 
 ##### Program:
-### Developed By:
-### Register Number: 
-
-
-## Output:
+### Developed By:PAVANA.G
+### Register Number: 212222230105
 
 ### i) Read and display the image
-
-<br>
-<br>
-
+```
+    import cv2
+    image=cv2.imread('pav.jpg',1)
+    image=cv2.resize(image,(400,300))
+    cv2.imshow('PAVANA',image)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
+```
+### OUTPUT:
+![WhatsApp Image 2024-02-12 at 22 00 18_0c71ebcb](https://github.com/gpavana/COLOR_CONVERSIONS_OF-IMAGE/assets/118787343/7e41ac64-d0ca-4b73-af3b-c85f93cd0d27)
 ### ii)Write the image
 
 <br>
