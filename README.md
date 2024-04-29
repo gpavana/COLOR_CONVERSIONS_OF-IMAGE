@@ -1,16 +1,11 @@
-# COLOR_CONVERSIONS_OF-IMAGE
+# EX:01 COLOR_CONVERSIONS_OF-IMAGE
+# DATE:
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
-
 i) Read, display, and write an image.
-
 ii) Access the rows and columns in an image.
-
 iii) Cut and paste a small portion of the image.
-
 iv)To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
-
-
 ## Software Required:
 Anaconda - Python 3.7
 ## Algorithm:
@@ -36,8 +31,10 @@ Split and Merge RGB Image
 Split and merge HSV Image
 
 ##### Program:
-### Developed By:PAVANA.G
-### Register Number: 212222230105
+```
+Developed By:PAVANA.G
+Register Number: 212222230105
+```
 
 ### i) Read and display the image
 ```
